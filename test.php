@@ -1,5 +1,5 @@
 <?php
 
-echo "test initiall commit"; 
+echo "test initiall commit edited"; 
 
 ?>
